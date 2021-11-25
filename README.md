@@ -2,7 +2,7 @@ After
 
 ![썸네일](https://user-images.githubusercontent.com/49775487/143433296-7527f6a4-0d9c-40c9-9e14-01c5ea07fd0c.JPG)
 
-개발기간 : 2020.09 ~ 2021.11
+개발기간 : 2021.04 ~ 2021.11  
 사용 툴 : Unity, PhotoShop
 장르 : 스토리텔링형 퍼즐게임
 예상 플레이타임 : 15분
